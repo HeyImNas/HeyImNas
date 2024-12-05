@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Campus-life project**
 
-- 🌱 I’m currently learning **pentesting skills,AI**
+- 🌱 I’m currently learning **pentesting, AI, and game dev.**
 
 - 👯 I’m looking to collaborate on **CTF competetions and bug bounty**
 
