@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/heyimnas" target="blank"><img src="https://img.shields.io/twitter/follow/heyimnas?logo=twitter&style=for-the-badge" alt="heyimnas" /></a> </p>
 
-- 🔭 I’m currently working on a **Campus-life project**
+- 🔭 I’m recently completed a **Campus-life Capstone Project** 
 
 - 🌱 I’m currently learning **pentesting, AI, and game dev.**
 
